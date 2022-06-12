@@ -20,17 +20,8 @@ body{
 
 .navbar a:hover{
 
-    color: white;
-    font-weight: bold;
-
-}
-
-.navbar a:active {
-
-    color: white;
-    font-weight: bold;
-
-  }
+    color:lemonchiffon;
+}    
 
 
 
